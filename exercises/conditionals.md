@@ -59,6 +59,8 @@ public class Person {
 
 ## Exercises++
 
+
+
 #### 1. Cigar Party
 
 When squirrels get together for a party, they like to have cigars. A squirrel party is successful when the number of cigars is between 40 and 60, inclusive. Unless it is the weekend, in which case there is no upper bound on the number of cigars. Write a method called `cigarParty` that takes an `int` (the number of cigars) and `boolean` (whether or not it is the weekend) as parameters, and returns `true` if the party with the given values is successful, or `false` otherwise.

@@ -76,7 +76,8 @@ ex: prettyInteger(4) prints "**** 4 ****"
 
 #### 6. Random
 
-Write a method called `random` that takes 2 ints as parameters and returns a random int within that range.
+Write a method called `random` that takes 2 ints as parameters
+and returns a random int within that range.
 
 ```
 ex: random(1, 100) returns a random int between 1 and 100
